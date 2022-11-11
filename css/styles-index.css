@@ -117,15 +117,18 @@ a:hover{
 
 
 @keyframes slide{
-    25%{background: url(../images/design/indie_lisboa/Indie\ Lisboa\ Banner\ 2.jpg);}
+    33%{background: url(../images/design/indie_lisboa/Indie\ Lisboa\ Banner\ 2.jpg);}
     
-    50%{background: url(../images/design/arc_magazine/POSTERS/Poster\ ARCH\ Mag\ 1\ -\ 3.png);}
-    75%{background: url(../images/design/fashion_week/POSTER/FashionWeek-\ Poster-\ Pefume.jpg);}
+    66%{background: url(../images/design/arc_magazine/POSTERS/Poster\ ARCH\ Mag\ 1\ -\ 3.png);}
+   
     100%{background: url(../images/home/Nike\ Banner\ 1.jpg);}
 }
 
 
-/*   60%{background: url(../images/apps/melodyz/melodyz\ UI\ 1\ samll.jpg);} */
+/*   60%{background: url(../images/apps/melodyz/melodyz\ UI\ 1\ samll.jpg);} 
+ 75%{background: url(../images/design/fashion_week/POSTER/FashionWeek-\ Poster-\ Pefume.jpg);}
+
+*/
 
 /* SLIDESHOW FIM - - - -*/
 
